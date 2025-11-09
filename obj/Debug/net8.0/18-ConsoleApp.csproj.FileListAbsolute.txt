@@ -1,0 +1,14 @@
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\bin\Debug\net8.0\18-ConsoleApp.exe
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\bin\Debug\net8.0\18-ConsoleApp.deps.json
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\bin\Debug\net8.0\18-ConsoleApp.runtimeconfig.json
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\bin\Debug\net8.0\18-ConsoleApp.dll
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\bin\Debug\net8.0\18-ConsoleApp.pdb
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.AssemblyInfo.cs
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.dll
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\refint\18-ConsoleApp.dll
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.pdb
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\18-ConsoleApp.genruntimeconfig.cache
+C:\Users\VAIO\OneDrive\Desktop\18-ConsoleApp\obj\Debug\net8.0\ref\18-ConsoleApp.dll
