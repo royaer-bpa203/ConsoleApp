@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace CourseApp
-{   
+{
 
     public class CourseApp
     {
@@ -125,5 +125,26 @@ namespace CourseApp
         {
             return students.Where(s => s.Age == age).ToList();
         }
+        // 13 - Get all students by group id
+        public List<Student> GetStudentsByGroupId(int groupId)
+        {
+            return students.Where(s => s.Group.Id == groupId).ToList();
+        }
+
+        // 14 - Search groups by name
+        public List<Group> SearchGroupsByName(string searchTerm)
+        {
+            return groups.Where(g => g.Name.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)).ToList();
+        }
+
+        // 15 - Search students by name or surname
+        public List<Student> SearchStudentsByNameOrSurname(string searchTerm)
+        {
+            return students.Where(s => s.Name.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)
+                                    || s.Surname.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
+                           .ToList();
+        }
     }
 }
+
+    
