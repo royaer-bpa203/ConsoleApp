@@ -13,7 +13,6 @@
         Teacher = teacher;
         Room = room;
     }
-
     public override string ToString()
     {
         return $"Group(Id={Id}, Name={Name}, Teacher={Teacher}, Room={Room})";

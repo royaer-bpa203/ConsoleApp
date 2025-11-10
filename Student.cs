@@ -15,7 +15,6 @@
         Age = age;
         Group = group;
     }
-
     public override string ToString()
     {
         return $"Student(Id={Id}, Name={Name}, Surname={Surname}, Age={Age}, GroupId={Group?.Id})";
