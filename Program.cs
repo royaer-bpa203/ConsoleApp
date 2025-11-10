@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace CourseApp
-{     // ==================== COURSE APPLICATION ====================
+{   
 
     public class CourseApp
     {
@@ -120,7 +120,6 @@ namespace CourseApp
             }
             return false;
         }
-
         // 12 - Get students by age
         public List<Student> GetStudentsByAge(int age)
         {
