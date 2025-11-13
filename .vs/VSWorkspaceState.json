@@ -5,8 +5,9 @@
     "\\bin\\Debug",
     "\\bin\\Release",
     "\\obj",
-    "\\obj\\Debug"
+    "\\obj\\Debug",
+    "\\obj\\Release"
   ],
-  "SelectedNode": "\\Group.cs",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
